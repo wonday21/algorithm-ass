@@ -8,7 +8,7 @@ const int MAX_FILES = 100;
 string files[MAX_FILES] = {
     "wondays.txt", "birhanus.xls","ahmeds.pptx", "tedys.txt",
     "aklilus.txt","temesgens.xls" };
-int fileCount = 5;
+int fileCount = 6;
 
 void displayFiles() {
     cout << "Files:\n";
